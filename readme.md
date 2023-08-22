@@ -20,15 +20,18 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Datenbank erstellen | `Data` | `Data ist sichtbar`      |
-[ ] *Datenbank guides lesen bis ich verstehe wie man Daten in Datenbänke einfügen kann & diese sortieren kann* 
+
+- [ ] *Datenbank guides lesen bis ich verstehe wie man Daten in Datenbänke einfügen kann & diese sortieren kann* 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten einfügen | `Data` | `Data ist sichtbar & kann sortiert werden`      |
-[ ] *Datenbank guides lesen bis ich verstehe wie man Daten automatisch in Datenbänke einfügen kann*
+
+- [ ] *Datenbank guides lesen bis ich verstehe wie man Daten automatisch in Datenbänke einfügen kann*
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | automatisch Daten einfügen | `url` | `Data ist sichtbar`      |
-[ ] *Datenbank guides lesen bis ich verstehe wie man Daten automatisch in Datenbänke einfügen kann* 
+
+- [ ] *Datenbank guides lesen bis ich verstehe wie man Daten automatisch in Datenbänke einfügen kann* 
 (wie zwei da ich denke das dies länger als 45min dauert)
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
