@@ -41,4 +41,4 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 | automatisch Daten einfügen | `url` | `Data ist sichtbar`      |
 -----------------------------------------------
 #### *Extra*
-[ ] *Herausfinden wie ich ein Script schreibe das nach einer gewissen Zeit eine Website nach Änderungen untersucht* (Wird sehr wahrscheinlich viel zu lange dauern)
+- [ ] *Herausfinden wie ich ein Script schreibe das nach einer gewissen Zeit eine Website nach Änderungen untersucht* (Wird sehr wahrscheinlich viel zu lange dauern)
