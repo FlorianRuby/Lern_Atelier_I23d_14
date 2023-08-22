@@ -15,7 +15,8 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 
 ## Arbeitspakete 29.09.2023
 
-[ ] *einfache Datenbank erstellen in welcher man Daten eintragen kann*
+- [ ] *einfache Datenbank erstellen in welcher man Daten eintragen kann*
+      
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Datenbank erstellen | `Data` | `Data ist sichtbar`      |
