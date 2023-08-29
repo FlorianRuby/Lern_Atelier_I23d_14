@@ -15,13 +15,13 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 
 ## Arbeitspakete 29.09.2023
 
-- [ ] *einfache Datenbank erstellen in welcher man Daten eintragen kann*
+- [X] *einfache Datenbank erstellen in welcher man Daten eintragen kann*
       
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Datenbank erstellen | `Data` | `Data ist sichtbar`      |
 
-- [ ] *Datenbank guides lesen bis ich verstehe wie man Daten in Datenbänke einfügen kann & diese sortieren kann* 
+- [X] *Datenbank guides lesen bis ich verstehe wie man Daten in Datenbänke einfügen kann & diese sortieren kann* 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -40,5 +40,5 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 | ------------------------ | ------- | ----------------- |
 | automatisch Daten einfügen | `url` | `Data ist sichtbar`      |
 -----------------------------------------------
-#### *Extra*
-- [ ] *Herausfinden wie ich ein Script schreibe das nach einer gewissen Zeit eine Website nach Änderungen untersucht* (Wird sehr wahrscheinlich viel zu lange dauern)
+
+Ich konnte die ersten zwei steps gut machen und auch schnell aber leider gab es bestimmte Limitierungen wesgwegen ich mein Projekt beenden musste und mir ein anderes suchen muss. Die Limitierungen bestanden darin das ich bestimmte Tools benutzen musste um die Inhalte einer Webpage automatisch in Excel einzufügen, allerdings ging dies nicht da die Formatierung von der Website nicht geeignet war. Ich habe stattdessen ein paar moodle Aufgaben gemacht und ein Programm (Mithilfe von Chatgpt + google) welches automatisch alle Dateien welche in dem Downloads Folder sind in den richtigen ordner (319,431, Kanti etc) verschiebt, dies funktioniert mithilfe von Powershell. Bis auf nächste Woche werde ich also ein neues Projekt finden und dann an diesem arbeiten. (116)
