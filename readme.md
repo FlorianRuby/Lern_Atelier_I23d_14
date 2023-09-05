@@ -13,7 +13,7 @@ Dazu muss ich erst einmal eine Datenbank erstellen und ein Skript schreiben welc
 
 Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie man Daten aus dem Netz extrahieren kann und diese danach in eine Datenbank automatisch einfügen kann.
 
-## Arbeitspakete 29.09.2023
+## Arbeitspakete 29.08.2023
 
 - [X] *einfache Datenbank erstellen in welcher man Daten eintragen kann*
       
@@ -42,3 +42,9 @@ Ich hoffe durch dieses Projekt zu lernen wie Datenbanken funktionieren und wie m
 -----------------------------------------------
 
 Ich konnte die ersten zwei steps gut machen und auch schnell aber leider gab es bestimmte Limitierungen wesgwegen ich mein Projekt beenden musste und mir ein anderes suchen muss. Die Limitierungen bestanden darin das ich bestimmte Tools benutzen musste um die Inhalte einer Webpage automatisch in Excel einzufügen, allerdings ging dies nicht da die Formatierung von der Website nicht geeignet war. Ich habe stattdessen ein paar moodle Aufgaben gemacht und ein Programm (Mithilfe von Chatgpt + google) welches automatisch alle Dateien welche in dem Downloads Folder sind in den richtigen ordner (319,431, Kanti etc) verschiebt, dies funktioniert mithilfe von Powershell. Bis auf nächste Woche werde ich also ein neues Projekt finden und dann an diesem arbeiten. (116)
+
+
+
+## 05.09.2023
+
+Heute habe ich mein neues Projekt gestartet, einen Counter welcher die Resourcen die ich und mein Freund auf einem Minecraftserver mithilfe von automatischen Farmen zählt. Ausserdem war mir wichtig das die geupdateten string Inhalte nicht verloren gehen sondern in einem Dokument gespeichert werden, diese Funktion habe ich mit hilfe von [diesem](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file) Microsoft Beitrag erstellt. Weitere Hilfe habe ich mir auch bei der For each Funktion bei chatgpt geholt damit ich die verschiedenen Funktionen besser hinterfragen konnte. Mein Projekt file habe ich ausserdem auch hochgeladen.
