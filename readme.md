@@ -48,3 +48,28 @@ Ich konnte die ersten zwei steps gut machen und auch schnell aber leider gab es 
 ## 05.09.2023
 
 Heute habe ich mein neues Projekt gestartet, einen Counter welcher die Resourcen die ich und mein Freund auf einem Minecraftserver mithilfe von automatischen Farmen zählt. Ausserdem war mir wichtig das die geupdateten string Inhalte nicht verloren gehen sondern in einem Dokument gespeichert werden, diese Funktion habe ich mit hilfe von [diesem](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file) Microsoft Beitrag erstellt. Weitere Hilfe habe ich mir auch bei der For each Funktion bei chatgpt geholt damit ich die verschiedenen Funktionen besser hinterfragen konnte. Mein Projekt file habe ich ausserdem auch hochgeladen.
+
+## Arbeitspakete 12.08.2023
+[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
