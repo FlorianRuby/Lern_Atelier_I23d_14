@@ -73,3 +73,32 @@ Heute habe ich mein neues Projekt gestartet, einen Counter welcher die Resourcen
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
+
+## 12.09.2023
+Da wir am Donnerstag eine Schulreise hatten und dadurch die Modul 431 Lektionen ausgefallen sind habe ich mich dazu entschieden anstatt an meinem eigenen Projekt zu arbeiten lieber ein paar Module zu machen da wir mit diesen vor den Ferien fertig werden müssen. Deshalb habe ich auch nichts eingetragen da ich ja nichts zum eigenen Projekt gemacht habe. Die Arbeitspakete von letzter Woche werde ich einfach weiter auf die nächste verschieben.
+
+
+## Arbeitspakete 19.08.2023
+[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
+
+[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
