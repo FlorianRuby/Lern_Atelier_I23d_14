@@ -50,25 +50,25 @@ Ich konnte die ersten zwei steps gut machen und auch schnell aber leider gab es 
 Heute habe ich mein neues Projekt gestartet, einen Counter welcher die Resourcen die ich und mein Freund auf einem Minecraftserver mithilfe von automatischen Farmen zählt. Ausserdem war mir wichtig das die geupdateten string Inhalte nicht verloren gehen sondern in einem Dokument gespeichert werden, diese Funktion habe ich mit hilfe von [diesem](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file) Microsoft Beitrag erstellt. Weitere Hilfe habe ich mir auch bei der For each Funktion bei chatgpt geholt damit ich die verschiedenen Funktionen besser hinterfragen konnte. Mein Projekt file habe ich ausserdem auch hochgeladen.
 
 ## Arbeitspakete 12.08.2023
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -79,19 +79,19 @@ Da wir am Donnerstag eine Schulreise hatten und dadurch die Modul 431 Lektionen 
 
 
 ## Arbeitspakete 19.08.2023
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -99,7 +99,7 @@ Da wir am Donnerstag eine Schulreise hatten und dadurch die Modul 431 Lektionen 
 
 
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -112,19 +112,19 @@ Ich habe den Auftrag 1721 vervollständigt, dies ging ziemlich lange da es viele
 Ich schiebe also die Aufgabe von vorletzter und vorvorletzter Woche noch einmal auf, auf die nächste. Ich werde zuhause die Dateipfäde ändern sodass ich das Programm auch auf dem Laptop bearbeiten und benutzen kann ohne das ich irgend etwas im code ändern muss.
 
 ## Arbeitspakete 19.08.2023
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
+- [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Daten in Datenbank | `Zeit` | `Daten in Datenbank * Zeit`      |
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -132,7 +132,7 @@ Ich schiebe also die Aufgabe von vorletzter und vorvorletzter Woche noch einmal 
 
 
 
-[ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
+- [ ] *Program schreiben welches es möglich macht mit einem bestimmten Wert aus der Datenbank zu rechnen* (2x)
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
