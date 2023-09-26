@@ -91,6 +91,8 @@ namespace rss_counter
             int rsp = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("#################################");
 
+            rsp -= 1;
+
             if (rsp >= 0 && rsp < rss.Length)
             {
                 Console.WriteLine(type[rsp] + ": " + rss[rsp]);
