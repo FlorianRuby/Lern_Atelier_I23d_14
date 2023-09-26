@@ -29,7 +29,6 @@ namespace rss_counter
 
             rss = new int[11];
 
-            // Lesen Sie die Daten aus der Textdatei und speichern Sie sie in rss
             if (File.Exists(dateipfad))
             {
                 string[] lines = File.ReadAllLines(dateipfad);
@@ -79,9 +78,7 @@ namespace rss_counter
             int t = 0;
             Console.WriteLine("#################################");
             
-                //Console.WriteLine(nr[t] + " - " + type[t] + " - " + rss[t]);
-
-
+            // Ausgabe von den vorhandenen RSS (**Formatiert**) 
                 Console.WriteLine("{0,-10} {1,-10} {2,-20}\n", nr[t], type[t], rss[t]);
 
                 for (int i = 0; i < nr.Length; i++)
@@ -94,7 +91,6 @@ namespace rss_counter
             int rsp = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("#################################");
 
-            // Überprüfen, ob rsp im gültigen Bereich liegt
             if (rsp >= 0 && rsp < rss.Length)
             {
                 Console.WriteLine(type[rsp] + ": " + rss[rsp]);
