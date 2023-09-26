@@ -139,20 +139,22 @@ Ich schiebe also die Aufgabe von vorletzter und vorvorletzter Woche noch einmal 
 | Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
 
 ## 26.09.2023
-Am letzten Tag des Lernateliers vor den Ferien habe ich wahrscheinlich am besten gearbeitet und bin auch ziemlich weit gekommen, ich kann jetzt Daten in einer Textdatei speichern, auf spezifische zugreifen, mit diesen rechnen und diese auch wieder im gleichen Dokuement speichern was heisst mein Hauptziel war. Ich hätte noch mehr in dieser Zeit schaffen können, aber ich habe 30 Minuten an einem Problem gesessen das jediglich daraus bestand das ich den Dateipfad ausversehen etwas abgeändert hatte und dies nicht bemerkt habe und somit nichts im Program mehr funktionierte.
+Am letzten Tag des Lernateliers vor den Ferien habe ich wahrscheinlich am besten gearbeitet und bin auch ziemlich weit gekommen, ich kann jetzt Daten in einer Textdatei speichern, auf spezifische zugreifen, bald mit diesen rechnen und diese auch wieder im gleichen Dokuement speichern, was heisst mein Hauptziel war. Ich hätte noch mehr in dieser Zeit schaffen können, aber ich habe 30 Minuten an einem Problem gesessen das jediglich daraus bestand das ich den Dateipfad ausversehen etwas abgeändert hatte und dies nicht bemerkt habe und somit nichts im Program mehr funktionierte.
 
 Im grossen und ganzen bin ich ziemlich zufrieden mit meiner Arbeit aber ich hätte mehr programmieren sollen und nicht immer nur Module. 
 
 
 ## Meilensteine
-
 1. Herausfinden wie ich Daten aus Textdokumente in Arrays umwandeln kann.
 2. *Projektabschluss 26.09.2023 (Ich bin zwar mit den essentiellen Funktionen feritg, könnte den Rest allerdings noch verbessern)*
 
 ## Ereignisse
 1. Projektwechsel in der zweiten Woche
-2. 
 
+## Erfolge
+1. Bugfix beim einlesen der Daten aus dem Textfile
+2. *Abschliessend* des Projektes
 
-
-
+## Reflexion
+Ich habe bei meinem Projekt gelernt wie man Daten in Dateien speichern kann und diese wieder auslesen kann, dies war eigentlich mein Hauptziel am Anfang. 
+Ausserdem habe ich gelernt wie man CMD ausgaben formatieren kann, also mithilfe von "{0,-10} {1,-10:N1} {2,-20}", ich habe ausserdem gelernt wie man verschieden Arrays in Ausgaben mixxen kann. Ich weiss jetzt auch wie man auf spezifische Arrays zugreifen kann und mit diesen Rechnen kann. Ich habe allerdings nicht so viel Programmiert und mehr an Modulen gearbeitet, ausserdem war ich Zuhause nicht immer voll fokusiert und habe oft die Arbeit am Nachmittag und nicht am Morgen gemacht. 
