@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace rss_counter
@@ -9,7 +9,7 @@ namespace rss_counter
         {
             string dateipfad = "C:\\Users\\flori\\Downloads\\Lern_Atelier_I23d_14-main\\Lern_Atelier_I23d_14-main\\rss counter\\rss counter\\varwert.txt";
             int[] werte;
-            int[] rss;
+            double[] rss;
             string[] type;
             int[] nr;
             string text1;
@@ -27,7 +27,7 @@ namespace rss_counter
             werte[9] = 9500;  // oak (azalea)
             werte[10] = 8500; // oak
 
-            rss = new int[11];
+            rss = new double[11];
 
             if (File.Exists(dateipfad))
             {
@@ -63,24 +63,21 @@ namespace rss_counter
             type[10] = "Oak";
 
             nr = new int[11];
-            nr[0] = 0;
-            nr[1] = 1;
-            nr[2] = 2;
-            nr[3] = 3;
-            nr[4] = 4;
-            nr[5] = 5;
-            nr[6] = 6;
-            nr[7] = 7;
-            nr[8] = 8;
-            nr[9] = 9;
-            nr[10] = 10;
+            nr[0] = 1;
+            nr[1] = 2;
+            nr[2] = 3;
+            nr[3] = 4;
+            nr[4] = 5;
+            nr[5] = 6;
+            nr[6] = 7;
+            nr[7] = 8;
+            nr[8] = 9;
+            nr[9] = 10;
+            nr[10] = 11;
 
             int t = 0;
             Console.WriteLine("#################################");
             
-            // Ausgabe von den vorhandenen RSS (**Formatiert**) 
-                Console.WriteLine("{0,-10} {1,-10} {2,-20}\n", nr[t], type[t], rss[t]);
-
                 for (int i = 0; i < nr.Length; i++)
                 {
                     Console.WriteLine("{0,-10} {1,-10:N1} {2,-20}", nr[i], type[i], rss[i]);
@@ -92,15 +89,16 @@ namespace rss_counter
             Console.WriteLine("#################################");
 
             rsp -= 1;
+            
+            Console.Write("Wie lange ware Sie afk? 1h:30m = 1.5 : ");
+            double time = Convert.ToDouble(Console.ReadLine());
 
-            if (rsp >= 0 && rsp < rss.Length)
-            {
-                Console.WriteLine(type[rsp] + ": " + rss[rsp]);
-            }
-            else
-            {
-                Console.WriteLine("Ungültige Auswahl.");
-            }
+            double result;
+
+            result = time * werte[rsp];
+            rss[rsp] += result;
+
+            Console.WriteLine("Neuer " +  type[rsp] +  "stand: " + rss[rsp]);
 
             File.WriteAllLines(dateipfad, Array.ConvertAll(rss, x => x.ToString()));
         }
