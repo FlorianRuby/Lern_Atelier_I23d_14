@@ -139,7 +139,10 @@ Ich schiebe also die Aufgabe von vorletzter und vorvorletzter Woche noch einmal 
 | Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
 
 # Reflektion
-Am letzten Tag des Lernateliers vor den Ferien habe ich wahrscheinlich am besten gearbeitet und bin auch ziemlich weit gekommen, ich kann jetzt Daten in einer Textdatei speichern, auf spezifische zugreifen, mit diesen rechnen und diese auch wieder im gleichen Dokuement speichern was heisst mein Hauptziel war. Ich hätte noch mehr in dieser Zeit schaffen können aber ich habe 30 Minuten an einem Problem gesessen das jediglich daraus bestand das ich den Dateipfad ausversehen etwas abgeändert hatte und es nicht bemerkte und folglich dessen nichts im Program mehr funktionierte.
+Am letzten Tag des Lernateliers vor den Ferien habe ich wahrscheinlich am besten gearbeitet und bin auch ziemlich weit gekommen, ich kann jetzt Daten in einer Textdatei speichern, auf spezifische zugreifen, mit diesen rechnen und diese auch wieder im gleichen Dokuement speichern was heisst mein Hauptziel war. Ich hätte noch mehr in dieser Zeit schaffen können, aber ich habe 30 Minuten an einem Problem gesessen das jediglich daraus bestand das ich den Dateipfad ausversehen etwas abgeändert hatte und dies nicht bemerkt habe und somit nichts im Program mehr funktionierte.
+
+Im grossen und ganzen bin ich ziemlich zufrieden mit meiner Arbeit aber ich hätte mehr programmieren sollen und nicht immer nur Module. 
+
 
 ## Meilensteine
 
