@@ -105,13 +105,13 @@ Da wir am Donnerstag eine Schulreise hatten und dadurch die Modul 431 Lektionen 
 | ------------------------ | ------- | ----------------- |
 | Mehrere Daten in Datenbank | `Name der Data + Zeit` | `spezifische Data in Datenbank * Zeit`      |
 
-# 19.09.2023
+# 26.09.2023
 
 Heute habe ich im grossen und ganzen realtiv gut gearbeitet, aber wieder, wie in der Woche davor am 431 Modulen. 
 Ich habe den Auftrag 1721 vervollständigt, dies ging ziemlich lange da es viele Teilaufgaben gab wie zum Beispiel eine Email verfassen, eine Google Form erstellen, Kalender Einträge erstellen etc. 
 Ich schiebe also die Aufgabe von vorletzter und vorvorletzter Woche noch einmal auf, auf die nächste. Ich werde zuhause die Dateipfäde ändern sodass ich das Programm auch auf dem Laptop bearbeiten und benutzen kann ohne das ich irgend etwas im code ändern muss.
 
-## Arbeitspakete 19.08.2023
+## Arbeitspakete 26.08.2023
 - [ ] *Program schreiben welches mit mehreren Daten in einer Datenbank rechnen kann*
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
